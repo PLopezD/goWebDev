@@ -1,0 +1,3 @@
+- requires sqlite 3
+- uses http://classify.oclc.org
+- go run main.go
